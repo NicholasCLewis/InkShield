@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For InkSheild
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+InkShieldA0A3	KEYWORD1
+InkShieldA2A5	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+spray_ink	KEYWORD2
+spray_ink2	KEYWORD2
+spray_ink3	KEYWORD2
+spray_ink4	KEYWORD2
+spray_ink5	KEYWORD2
+spray_ink6	KEYWORD2
+spray_ink7	KEYWORD2
+spray_ink8	KEYWORD2
+spray_ink9	KEYWORD2
+spray_ink10	KEYWORD2
+spray_ink11	KEYWORD2
+spray_ink12	KEYWORD2
+getPinMode KEYWORD2
+setPinMode KEYWORD2
+setABCDPinMode KEYWORD2
+fastDigitalRead KEYWORD2
+fastDigitalWrite KEYWORD2
+fastABCDDigitalWrite KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For InkSheild
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPinMode KEYWORD2
+setPinMode KEYWORD2
+setABCDPinMode KEYWORD2
+fastDigitalRead KEYWORD2
+fastDigitalWrite KEYWORD2
+fastABCDDigitalWrite KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+abcdA0A3 LITERAL1
+abcdA2A5 LITERAL1
+abcd2225 LITERAL1
