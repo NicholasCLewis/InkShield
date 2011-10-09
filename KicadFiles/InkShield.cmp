@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPCB (2010-12-23 BZR 2684)-stable date = 10/2/2011 4:11:57 PM
+
+BeginCmp
+TimeStamp = /4DDF0273;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = CP10_25;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0259;
+Reference = C2;
+ValeurCmp = 1.5nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF026E;
+Reference = C3;
+ValeurCmp = 330uF;
+IdModule  = CP20_35;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0625;
+Reference = D1;
+ValeurCmp = 1N5819;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE444A2;
+Reference = D2;
+ValeurCmp = POWER;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE44528;
+Reference = D3;
+ValeurCmp = PULSE;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1BAF75;
+Reference = JP1;
+ValeurCmp = A;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1BAFAE;
+Reference = JP2;
+ValeurCmp = B;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1BAFB0;
+Reference = JP3;
+ValeurCmp = C;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1BAFB2;
+Reference = JP4;
+ValeurCmp = D;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1A7803;
+Reference = JP5;
+ValeurCmp = PINS_2-7;
+IdModule  = PIN_ARRAY_6X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E210945;
+Reference = JP6;
+ValeurCmp = PINS_8-12;
+IdModule  = PIN_ARRAY_5X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1FAE2B;
+Reference = JP7;
+ValeurCmp = MEGA_ABCD;
+IdModule  = PIN_ARRAY_4X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1FAE4E;
+Reference = JP8;
+ValeurCmp = MEGA_PULSE;
+IdModule  = PIN_ARRAY_4X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E88EAF2;
+Reference = JP9;
+ValeurCmp = Vin;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF021D;
+Reference = L1;
+ValeurCmp = 180uH;
+IdModule  = INDUCTOR_RLB_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E51DBCE;
+Reference = P1;
+ValeurCmp = Vin;
+IdModule  = JST_PH_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE2F502;
+Reference = P2;
+ValeurCmp = Vin;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1FAEF8;
+Reference = P3;
+ValeurCmp = AUX_IN;
+IdModule  = PIN_ARRAY_4X2_with_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE2F960;
+Reference = P4;
+ValeurCmp = AUX_OUT;
+IdModule  = PIN_ARRAY_9X2_with_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0ACA;
+Reference = P5;
+ValeurCmp = HP_Q2347A_FFC;
+IdModule  = SLW16R-1C7LF_Q2347A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE2F441;
+Reference = P6;
+ValeurCmp = ICSP;
+IdModule  = PIN_ARRAY_3X2_with_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF024C;
+Reference = R1;
+ValeurCmp = 0.22;
+IdModule  = R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0250;
+Reference = R2;
+ValeurCmp = 2K2;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0241;
+Reference = R3;
+ValeurCmp = 180;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0253;
+Reference = R4;
+ValeurCmp = 33K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE44502;
+Reference = R5;
+ValeurCmp = 300;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE44525;
+Reference = R6;
+ValeurCmp = 300;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E1FAC74;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_MEGA_SHIELD;
+IdModule  = ARDUINO_MEGA_SHIELD_2_040PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE2F45E;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = SW_PUSH_6MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF02CB;
+Reference = U1;
+ValeurCmp = MC34063A;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0C36;
+Reference = U2;
+ValeurCmp = ULN2803AN;
+IdModule  = DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0A53;
+Reference = U3;
+ValeurCmp = CD4067;
+IdModule  = DIP-24__600_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0C45;
+Reference = U4;
+ValeurCmp = ULN2803AN;
+IdModule  = DIP-18__300_ELL;
+EndCmp
+
+EndListe
