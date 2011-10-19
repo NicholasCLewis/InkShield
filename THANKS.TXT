@@ -1,0 +1,12 @@
+InkShield THANKS.TXT
+Copyright 2011, Nicholas C Lewis
+http://nicholasclewis.com/inkshield/
+
+I would like to thank all the backers who supported the launch of this project.
+The people listed below all backed my Kickstarter project allowing me to produce a production run.
+http://www.kickstarter.com/projects/1908026860/inkshield-an-open-source-inkjet-shield-for-arduino
+With out their support this would have remained a small hobby project.
+
+I hope that everyone enjoys this shield and look forward to seeing all the projects people create using them.
+
+Names to be listed soon.... (once the final surveys are in)
