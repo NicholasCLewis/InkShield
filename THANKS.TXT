@@ -5,8 +5,137 @@ http://nicholasclewis.com/inkshield/
 I would like to thank all the backers who supported the launch of this project.
 The people listed below all backed my Kickstarter project allowing me to produce a production run.
 http://www.kickstarter.com/projects/1908026860/inkshield-an-open-source-inkjet-shield-for-arduino
-With out their support this would have remained a small hobby project.
+Without their support this would have remained a small hobby project.
 
 I hope that everyone enjoys this shield and look forward to seeing all the projects people create using them.
 
-Names to be listed soon.... (once the final surveys are in)
+Pen-Yuan Hsing
+Devin Hales
+martin
+Eli Moss
+Samuel Beckey
+Nathan B
+Matt Westervelt
+shaji
+David Whitlock
+Adam Driggers
+David Bonner
+Mike Metzger
+Matt Richardson
+Paul Rothrock
+Colin Faulkingham
+Bart Dring
+Rob Dobson
+Hoonse
+ExoUY
+Tony Pelliccio
+samo
+James Long
+Mike Davey
+Mat Bettinson
+laurence
+ainda
+glops
+Marc Goodner
+@warthurton
+Jack Kern
+Andrew Morrow
+Paul Panarese
+Matthew Wilson
+ajn
+Brett Kuehner
+Scott Bennett
+Joe Lanich
+Dr. Maximillian Dornseif
+Luke Guildner
+Calrain
+Josh DiMauro
+Nick Lucking
+flouSH
+Andrew Laughton
+Jason Higgins
+Hans Lenos
+Jeffrey Yuan
+Sean Spencer
+Eric Albert
+H.B. Siegel
+Alan Smith
+Jarryd Bekker
+Joe Staton
+Inez Ang
+Rickard Dahlstrand
+dosman
+1010101
+ryodoan
+Neil Greatorex
+Michael Jaussi
+Goju
+Andrew Craigie
+Peter Jansen
+Thane Somers
+Stephen Ford
+fahhem
+Keith Ward
+Jon Harsem
+Patrick Weeks
+Jeppe Schlage
+Jeff D.
+T. Joseph Nkansah-Mahaney
+Ross Hendrickson
+Neil Benson
+Nirav Patel
+Ben Gray - phenoptix
+DJFW
+the alexxinator
+Tom Sofer
+Guy Poizat
+Miguel Angelo Oliveira
+beanieboi
+Colby Radmall
+Souris Kevin
+rwinscot
+Cecil Casey
+Jonathan Hodgins
+Steven Mueller
+Dweezil
+brinky
+Mike Grace
+Colt Jesse
+Tim Pelgrim
+http://www.dreams.me.vt.edu
+Michael Mooty
+Karl Paranya
+Matt Stultz
+Tim Walker
+mitpatterson
+Chris Kraft
+BlueberryNetworks.ca
+Robert Wilkie
+George Eggleston
+Clifton Gurlen
+David Snell
+Geordie Millar
+John Sarik
+Da3v
+Imran Peerbhai
+Michel Coste
+Pushbutton Engineering
+Long Arc Learning
+Kent Gormat
+jmac
+Jacob Schulman
+Richard Hoye
+nophead
+Aaron Colwell
+Mark Durbin
+Ben Diedrich
+Tracy Scott
+Vahid Monadjem
+William Adams
+Doug Philips
+Johannes Steidl
+Jeremy Shaw
+Igor Prudovikov
+Roberto Rosario
+Soullexx
+Jeremy Douglass
