@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPCB (2010-12-23 BZR 2684)-stable date = 11/27/2011 7:10:02 PM
+
+BeginCmp
+TimeStamp = /4DDF0ACA;
+Reference = P1;
+ValeurCmp = HP_Q2347A_FFC;
+IdModule  = SLW16R-1C7LF_Q2347A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE2F960;
+Reference = P2;
+ValeurCmp = AUX_OUT;
+IdModule  = PIN_ARRAY_9X2_with_connector;
+EndCmp
+
+EndListe

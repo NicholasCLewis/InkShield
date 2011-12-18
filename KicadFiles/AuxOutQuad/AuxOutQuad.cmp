@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPCB (2010-12-23 BZR 2684)-stable date = 11/27/2011 7:26:16 PM
+
+BeginCmp
+TimeStamp = /4ED2FD9E;
+Reference = P1;
+ValeurCmp = HP_Q2347A_FFC_1;
+IdModule  = SLW16R-1C7LF_Q2347A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDF0ACA;
+Reference = P2;
+ValeurCmp = HP_Q2347A_FFC_2;
+IdModule  = SLW16R-1C7LF_Q2347A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED2FDA9;
+Reference = P3;
+ValeurCmp = HP_Q2347A_FFC_3;
+IdModule  = SLW16R-1C7LF_Q2347A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED2FDB1;
+Reference = P4;
+ValeurCmp = HP_Q2347A_FFC_4;
+IdModule  = SLW16R-1C7LF_Q2347A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED2FD9F;
+Reference = P5;
+ValeurCmp = AUX_OUT_1;
+IdModule  = PIN_ARRAY_9X2_with_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DE2F960;
+Reference = P6;
+ValeurCmp = AUX_OUT_2;
+IdModule  = PIN_ARRAY_9X2_with_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /4ED2FDA8;
+Reference = P7;
+ValeurCmp = AUX_OUT_3;
+IdModule  = PIN_ARRAY_9X2_with_connector;
+EndCmp
+
+EndListe
